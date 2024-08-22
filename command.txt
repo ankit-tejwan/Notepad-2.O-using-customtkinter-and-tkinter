@@ -1,0 +1,3 @@
+python -m nuitka --onefile --windows-console-mode=disable --windows-icon-from-ico=text-editor-logo.ico  --enable-plugin=tk-inter  Notepad_2_0.py
+
+pyinstaller --onefile --noconsole --icon=text-editor-logo.ico Notepad_2_0.py
