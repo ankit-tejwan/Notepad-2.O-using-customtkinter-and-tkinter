@@ -218,7 +218,7 @@ class Notepad:
             else:
                 messagebox.showinfo("Print", "Printing is not supported on this operating system")
         except Exception as e:
-            messagebox.showerror("Print", f"Failed to print the file: {e}")
+            messagebox.showerror("Print", f"Failed to print the file: {e} \n First you should save the file and Try Again...|")
     
     def on_closing(self):
         if messagebox.askokcancel("Quit", "Do you want to save your work before quitting?"):
