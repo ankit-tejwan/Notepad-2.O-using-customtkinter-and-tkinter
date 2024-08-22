@@ -8,4 +8,5 @@ Notepad 2.0 is an upgraded version of a simple text editor created with these tw
 
 
 #snapshot
+
 ![Screenshot 2024-08-22 113419](https://github.com/user-attachments/assets/5d44e4f0-a130-4888-a555-7611cec9b5e8)
